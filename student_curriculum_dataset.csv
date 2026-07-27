@@ -1,0 +1,501 @@
+Student_ID,Academic_Score,Industry_Skill,Skill_Gap,Employability_Percentage,Employment_Status
+S001,59,44,15,73,Employed
+S002,50,67,17,87,Employed
+S003,46,81,35,67,Not Employed
+S004,55,68,13,85,Employed
+S005,92,93,1,100,Employed
+S006,53,59,6,92,Employed
+S007,92,56,36,61,Not Employed
+S008,88,49,39,54,Not Employed
+S009,98,84,14,93,Employed
+S010,64,50,14,91,Employed
+S011,67,35,32,62,Not Employed
+S012,84,55,29,70,Employed
+S013,44,73,29,71,Employed
+S014,90,92,2,100,Employed
+S015,75,33,42,52,Not Employed
+S016,73,89,16,86,Employed
+S017,82,57,25,71,Employed
+S018,100,85,15,96,Employed
+S019,87,47,40,49,Not Employed
+S020,69,50,19,85,Employed
+S021,73,87,14,91,Employed
+S022,49,78,29,66,Not Employed
+S023,40,93,53,46,Not Employed
+S024,66,92,26,75,Employed
+S025,67,86,19,82,Employed
+S026,41,51,10,94,Employed
+S027,96,81,15,97,Employed
+S028,72,98,26,72,Employed
+S029,92,75,17,80,Employed
+S030,60,77,17,81,Employed
+S031,99,54,45,60,Not Employed
+S032,42,92,50,46,Not Employed
+S033,67,44,23,69,Not Employed
+S034,63,74,11,84,Employed
+S035,89,85,4,100,Employed
+S036,68,34,34,60,Not Employed
+S037,80,32,48,37,Not Employed
+S038,67,62,5,95,Employed
+S039,53,85,32,73,Employed
+S040,43,48,5,83,Employed
+S041,92,48,44,48,Not Employed
+S042,71,93,22,82,Employed
+S043,63,32,31,56,Not Employed
+S044,81,93,12,95,Employed
+S045,60,95,35,63,Not Employed
+S046,76,36,40,45,Not Employed
+S047,73,94,21,77,Employed
+S048,62,72,10,92,Employed
+S049,62,58,4,100,Employed
+S050,42,75,33,65,Not Employed
+S051,60,49,11,84,Employed
+S052,47,60,13,83,Employed
+S053,81,40,41,47,Not Employed
+S054,55,56,1,100,Employed
+S055,47,64,17,85,Employed
+S056,43,51,8,89,Employed
+S057,44,85,41,55,Not Employed
+S058,56,80,24,71,Employed
+S059,64,87,23,73,Employed
+S060,59,34,25,69,Not Employed
+S061,90,63,27,72,Employed
+S062,54,42,12,74,Employed
+S063,87,55,32,72,Employed
+S064,70,50,20,81,Employed
+S065,99,86,13,94,Employed
+S066,73,96,23,75,Employed
+S067,93,44,49,37,Not Employed
+S068,41,32,9,78,Employed
+S069,92,46,46,45,Not Employed
+S070,49,73,24,75,Employed
+S071,49,55,6,94,Employed
+S072,85,77,8,94,Employed
+S073,57,54,3,100,Employed
+S074,62,73,11,91,Employed
+S075,48,56,8,91,Employed
+S076,60,77,17,80,Employed
+S077,64,90,26,70,Employed
+S078,95,30,65,20,Not Employed
+S079,88,98,10,100,Employed
+S080,41,82,41,63,Not Employed
+S081,45,36,9,82,Employed
+S082,88,35,53,40,Not Employed
+S083,59,53,6,97,Employed
+S084,63,49,14,81,Employed
+S085,93,31,62,25,Not Employed
+S086,67,70,3,93,Employed
+S087,46,49,3,91,Employed
+S088,69,41,28,64,Not Employed
+S089,75,47,28,60,Not Employed
+S090,49,86,37,68,Not Employed
+S091,55,46,9,78,Employed
+S092,100,30,70,17,Not Employed
+S093,52,74,22,83,Employed
+S094,59,70,11,93,Employed
+S095,76,70,6,97,Employed
+S096,65,57,8,93,Employed
+S097,48,61,13,86,Employed
+S098,88,32,56,29,Not Employed
+S099,69,40,29,56,Not Employed
+S100,50,86,36,62,Not Employed
+S101,57,61,4,94,Employed
+S102,89,83,6,100,Employed
+S103,98,69,29,69,Not Employed
+S104,80,83,3,100,Employed
+S105,67,51,16,88,Employed
+S106,45,38,7,88,Employed
+S107,46,61,15,81,Employed
+S108,87,82,5,100,Employed
+S109,95,96,1,100,Employed
+S110,91,41,50,43,Not Employed
+S111,43,53,10,94,Employed
+S112,44,55,11,87,Employed
+S113,79,55,24,77,Employed
+S114,43,31,12,73,Employed
+S115,60,82,22,76,Employed
+S116,52,78,26,77,Employed
+S117,78,41,37,57,Not Employed
+S118,62,81,19,84,Employed
+S119,85,95,10,97,Employed
+S120,72,68,4,100,Employed
+S121,66,48,18,71,Employed
+S122,66,64,2,100,Employed
+S123,89,78,11,88,Employed
+S124,75,97,22,79,Employed
+S125,50,86,36,59,Not Employed
+S126,93,84,9,97,Employed
+S127,47,60,13,82,Employed
+S128,57,91,34,68,Not Employed
+S129,62,86,24,81,Employed
+S130,56,57,1,100,Employed
+S131,46,77,31,64,Not Employed
+S132,72,99,27,72,Employed
+S133,75,81,6,94,Employed
+S134,65,30,35,53,Not Employed
+S135,56,100,44,58,Not Employed
+S136,85,54,31,71,Employed
+S137,91,87,4,100,Employed
+S138,90,83,7,100,Employed
+S139,44,89,45,56,Not Employed
+S140,95,40,55,31,Not Employed
+S141,44,93,49,50,Not Employed
+S142,99,58,41,54,Not Employed
+S143,57,96,39,63,Not Employed
+S144,42,45,3,85,Employed
+S145,86,96,10,100,Employed
+S146,92,80,12,98,Employed
+S147,86,76,10,87,Employed
+S148,76,82,6,92,Employed
+S149,52,91,39,58,Not Employed
+S150,57,31,26,66,Not Employed
+S151,41,47,6,88,Employed
+S152,91,93,2,100,Employed
+S153,81,72,9,88,Employed
+S154,63,64,1,95,Employed
+S155,65,83,18,87,Employed
+S156,90,43,47,43,Not Employed
+S157,56,30,26,62,Not Employed
+S158,44,93,49,47,Not Employed
+S159,74,33,41,47,Not Employed
+S160,89,41,48,41,Not Employed
+S161,90,67,23,77,Employed
+S162,74,100,26,77,Employed
+S163,98,96,2,100,Employed
+S164,72,98,26,70,Employed
+S165,66,96,30,73,Employed
+S166,67,30,37,58,Not Employed
+S167,47,51,4,93,Employed
+S168,61,34,27,60,Not Employed
+S169,65,60,5,98,Employed
+S170,41,46,5,81,Employed
+S171,77,33,44,45,Not Employed
+S172,59,42,17,76,Employed
+S173,58,47,11,75,Employed
+S174,42,43,1,88,Employed
+S175,56,91,35,60,Not Employed
+S176,74,59,15,89,Employed
+S177,87,48,39,46,Not Employed
+S178,83,74,9,89,Employed
+S179,100,59,41,56,Not Employed
+S180,98,45,53,37,Not Employed
+S181,56,38,18,68,Not Employed
+S182,74,73,1,100,Employed
+S183,77,98,21,83,Employed
+S184,61,65,4,97,Employed
+S185,61,93,32,71,Employed
+S186,75,98,23,73,Employed
+S187,84,69,15,85,Employed
+S188,52,78,26,79,Employed
+S189,75,79,4,100,Employed
+S190,68,68,0,100,Employed
+S191,77,61,16,89,Employed
+S192,97,44,53,35,Not Employed
+S193,42,42,0,88,Employed
+S194,52,64,12,86,Employed
+S195,69,39,30,62,Not Employed
+S196,90,58,32,73,Employed
+S197,58,44,14,75,Employed
+S198,55,42,13,76,Employed
+S199,94,93,1,100,Employed
+S200,97,56,41,62,Not Employed
+S201,72,87,15,89,Employed
+S202,67,76,9,93,Employed
+S203,77,55,22,81,Employed
+S204,59,41,18,76,Employed
+S205,76,49,27,61,Not Employed
+S206,47,58,11,85,Employed
+S207,92,53,39,56,Not Employed
+S208,69,97,28,69,Not Employed
+S209,40,38,2,87,Employed
+S210,49,96,47,52,Not Employed
+S211,98,65,33,72,Employed
+S212,61,33,28,57,Not Employed
+S213,45,77,32,64,Not Employed
+S214,42,86,44,52,Not Employed
+S215,88,92,4,100,Employed
+S216,95,73,22,73,Employed
+S217,92,43,49,44,Not Employed
+S218,61,39,22,73,Employed
+S219,80,50,30,67,Not Employed
+S220,64,47,17,71,Employed
+S221,74,34,40,54,Not Employed
+S222,69,50,19,83,Employed
+S223,97,89,8,100,Employed
+S224,78,52,26,77,Employed
+S225,64,60,4,94,Employed
+S226,91,97,6,99,Employed
+S227,78,52,26,72,Employed
+S228,99,51,48,48,Not Employed
+S229,96,51,45,50,Not Employed
+S230,76,51,25,78,Employed
+S231,67,44,23,66,Not Employed
+S232,81,45,36,49,Not Employed
+S233,94,81,13,99,Employed
+S234,49,95,46,57,Not Employed
+S235,96,49,47,44,Not Employed
+S236,77,72,5,100,Employed
+S237,71,63,8,96,Employed
+S238,94,53,41,62,Not Employed
+S239,84,43,41,54,Not Employed
+S240,83,50,33,69,Not Employed
+S241,82,42,40,50,Not Employed
+S242,51,55,4,100,Employed
+S243,72,93,21,83,Employed
+S244,48,30,18,73,Employed
+S245,85,72,13,84,Employed
+S246,73,94,21,80,Employed
+S247,95,91,4,100,Employed
+S248,91,41,50,41,Not Employed
+S249,84,60,24,75,Employed
+S250,45,92,47,49,Not Employed
+S251,58,35,23,62,Not Employed
+S252,43,88,45,58,Not Employed
+S253,55,34,21,68,Not Employed
+S254,50,75,25,73,Employed
+S255,79,49,30,65,Not Employed
+S256,92,41,51,38,Not Employed
+S257,92,92,0,100,Employed
+S258,40,31,9,85,Employed
+S259,96,68,28,69,Not Employed
+S260,59,75,16,83,Employed
+S261,53,33,20,70,Employed
+S262,59,92,33,62,Not Employed
+S263,78,55,23,78,Employed
+S264,64,31,33,53,Not Employed
+S265,49,60,11,91,Employed
+S266,100,76,24,78,Employed
+S267,51,51,0,100,Employed
+S268,63,30,33,58,Not Employed
+S269,98,65,33,70,Employed
+S270,43,49,6,80,Employed
+S271,97,100,3,100,Employed
+S272,42,40,2,86,Employed
+S273,58,68,10,88,Employed
+S274,83,74,9,86,Employed
+S275,88,97,9,100,Employed
+S276,45,44,1,91,Employed
+S277,90,77,13,82,Employed
+S278,88,95,7,100,Employed
+S279,85,62,23,76,Employed
+S280,79,62,17,83,Employed
+S281,74,80,6,96,Employed
+S282,81,40,41,52,Not Employed
+S283,61,87,26,70,Employed
+S284,49,100,51,50,Not Employed
+S285,76,68,8,97,Employed
+S286,83,64,19,78,Employed
+S287,92,71,21,84,Employed
+S288,98,92,6,100,Employed
+S289,90,86,4,100,Employed
+S290,99,67,32,63,Not Employed
+S291,42,72,30,65,Not Employed
+S292,48,68,20,80,Employed
+S293,64,73,9,86,Employed
+S294,89,30,59,29,Not Employed
+S295,96,94,2,100,Employed
+S296,65,63,2,94,Employed
+S297,69,63,6,96,Employed
+S298,78,68,10,92,Employed
+S299,81,96,15,100,Employed
+S300,64,72,8,91,Employed
+S301,56,50,6,94,Employed
+S302,87,98,11,96,Employed
+S303,73,46,27,67,Not Employed
+S304,89,63,26,74,Employed
+S305,91,56,35,66,Not Employed
+S306,74,77,3,98,Employed
+S307,98,86,12,94,Employed
+S308,41,91,50,55,Not Employed
+S309,71,70,1,96,Employed
+S310,94,39,55,37,Not Employed
+S311,48,46,2,88,Employed
+S312,95,89,6,100,Employed
+S313,85,33,52,35,Not Employed
+S314,74,47,27,59,Not Employed
+S315,65,81,16,81,Employed
+S316,74,83,9,94,Employed
+S317,84,60,24,76,Employed
+S318,80,83,3,100,Employed
+S319,40,57,17,79,Employed
+S320,94,98,4,100,Employed
+S321,48,57,9,91,Employed
+S322,49,67,18,82,Employed
+S323,73,32,41,48,Not Employed
+S324,48,95,47,57,Not Employed
+S325,41,85,44,57,Not Employed
+S326,48,41,7,78,Employed
+S327,91,83,8,100,Employed
+S328,78,90,12,88,Employed
+S329,97,77,20,81,Employed
+S330,54,42,12,79,Employed
+S331,48,91,43,58,Not Employed
+S332,73,62,11,94,Employed
+S333,81,30,51,36,Not Employed
+S334,57,35,22,72,Employed
+S335,60,73,13,87,Employed
+S336,77,44,33,61,Not Employed
+S337,63,82,19,86,Employed
+S338,84,100,16,89,Employed
+S339,64,32,32,63,Not Employed
+S340,70,100,30,73,Employed
+S341,54,83,29,66,Not Employed
+S342,56,90,34,69,Not Employed
+S343,40,74,34,68,Not Employed
+S344,70,33,37,58,Not Employed
+S345,44,85,41,54,Not Employed
+S346,76,44,32,54,Not Employed
+S347,61,48,13,72,Employed
+S348,76,48,28,59,Not Employed
+S349,85,86,1,100,Employed
+S350,69,78,9,86,Employed
+S351,52,98,46,58,Not Employed
+S352,72,93,21,77,Employed
+S353,83,49,34,59,Not Employed
+S354,82,63,19,76,Employed
+S355,57,70,13,90,Employed
+S356,58,35,23,65,Not Employed
+S357,62,70,8,96,Employed
+S358,49,87,38,60,Not Employed
+S359,85,62,23,76,Employed
+S360,62,64,2,93,Employed
+S361,52,67,15,83,Employed
+S362,90,61,29,76,Employed
+S363,96,66,30,74,Employed
+S364,66,98,32,64,Not Employed
+S365,60,49,11,84,Employed
+S366,53,100,47,50,Not Employed
+S367,50,42,8,77,Employed
+S368,41,78,37,63,Not Employed
+S369,85,60,25,78,Employed
+S370,45,72,27,72,Employed
+S371,69,49,20,68,Not Employed
+S372,75,68,7,89,Employed
+S373,84,30,54,41,Not Employed
+S374,52,70,18,80,Employed
+S375,66,68,2,100,Employed
+S376,70,75,5,97,Employed
+S377,63,68,5,99,Employed
+S378,58,99,41,56,Not Employed
+S379,48,46,2,88,Employed
+S380,60,48,12,76,Employed
+S381,88,57,31,74,Employed
+S382,56,86,30,69,Not Employed
+S383,42,93,51,48,Not Employed
+S384,85,34,51,41,Not Employed
+S385,64,35,29,65,Not Employed
+S386,81,76,5,95,Employed
+S387,48,93,45,52,Not Employed
+S388,51,96,45,58,Not Employed
+S389,79,60,19,83,Employed
+S390,59,98,39,61,Not Employed
+S391,76,42,34,52,Not Employed
+S392,74,78,4,91,Employed
+S393,86,30,56,32,Not Employed
+S394,76,49,27,59,Not Employed
+S395,99,70,29,67,Not Employed
+S396,78,93,15,88,Employed
+S397,76,52,24,72,Employed
+S398,83,39,44,44,Not Employed
+S399,63,50,13,92,Employed
+S400,55,47,8,80,Employed
+S401,67,41,26,60,Not Employed
+S402,93,33,60,26,Not Employed
+S403,47,45,2,92,Employed
+S404,81,80,1,100,Employed
+S405,76,62,14,90,Employed
+S406,54,53,1,100,Employed
+S407,57,99,42,54,Not Employed
+S408,83,42,41,54,Not Employed
+S409,82,31,51,37,Not Employed
+S410,69,85,16,83,Employed
+S411,42,46,4,86,Employed
+S412,45,77,32,68,Not Employed
+S413,78,33,45,42,Not Employed
+S414,60,73,13,86,Employed
+S415,66,100,34,61,Not Employed
+S416,78,95,17,81,Employed
+S417,98,48,50,43,Not Employed
+S418,65,100,35,63,Not Employed
+S419,53,62,9,92,Employed
+S420,90,54,36,67,Not Employed
+S421,80,89,9,100,Employed
+S422,43,97,54,49,Not Employed
+S423,90,66,24,76,Employed
+S424,67,97,30,67,Not Employed
+S425,78,73,5,100,Employed
+S426,54,30,24,63,Not Employed
+S427,79,60,19,79,Employed
+S428,82,85,3,100,Employed
+S429,94,59,35,70,Employed
+S430,55,86,31,68,Not Employed
+S431,70,45,25,61,Not Employed
+S432,93,56,37,63,Not Employed
+S433,92,83,9,99,Employed
+S434,64,94,30,70,Employed
+S435,58,59,1,100,Employed
+S436,47,60,13,88,Employed
+S437,69,88,19,79,Employed
+S438,97,79,18,86,Employed
+S439,44,51,7,97,Employed
+S440,90,39,51,41,Not Employed
+S441,45,67,22,82,Employed
+S442,93,68,25,79,Employed
+S443,94,54,40,55,Not Employed
+S444,56,61,5,97,Employed
+S445,79,62,17,85,Employed
+S446,55,89,34,66,Not Employed
+S447,48,88,40,64,Not Employed
+S448,92,74,18,78,Employed
+S449,83,36,47,45,Not Employed
+S450,69,45,24,63,Not Employed
+S451,94,100,6,100,Employed
+S452,100,34,66,28,Not Employed
+S453,56,76,20,81,Employed
+S454,50,89,39,66,Not Employed
+S455,51,37,14,78,Employed
+S456,76,73,3,98,Employed
+S457,61,62,1,100,Employed
+S458,60,32,28,66,Not Employed
+S459,80,73,7,96,Employed
+S460,57,78,21,77,Employed
+S461,76,65,11,91,Employed
+S462,89,95,6,100,Employed
+S463,42,46,4,89,Employed
+S464,73,78,5,94,Employed
+S465,80,55,25,78,Employed
+S466,89,68,21,76,Employed
+S467,88,84,4,100,Employed
+S468,75,38,37,52,Not Employed
+S469,78,87,9,95,Employed
+S470,92,37,55,30,Not Employed
+S471,78,61,17,84,Employed
+S472,98,97,1,100,Employed
+S473,54,78,24,78,Employed
+S474,63,55,8,96,Employed
+S475,60,72,12,90,Employed
+S476,64,90,26,75,Employed
+S477,53,75,22,80,Employed
+S478,41,60,19,80,Employed
+S479,65,100,35,65,Not Employed
+S480,65,62,3,100,Employed
+S481,67,83,16,81,Employed
+S482,58,36,22,63,Not Employed
+S483,80,68,12,86,Employed
+S484,85,75,10,93,Employed
+S485,42,90,48,52,Not Employed
+S486,98,82,16,97,Employed
+S487,86,42,44,45,Not Employed
+S488,75,91,16,81,Employed
+S489,63,77,14,88,Employed
+S490,87,97,10,100,Employed
+S491,91,65,26,74,Employed
+S492,85,41,44,50,Not Employed
+S493,87,37,50,39,Not Employed
+S494,84,94,10,100,Employed
+S495,50,69,19,79,Employed
+S496,86,81,5,100,Employed
+S497,99,85,14,92,Employed
+S498,66,89,23,73,Employed
+S499,70,87,17,83,Employed
+S500,75,46,29,61,Not Employed
